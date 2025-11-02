@@ -79,7 +79,7 @@ To use the local model instead of API:
 ~/.cache/huggingface/hub/
 
 
-2. Once downloaded, it runs locally — no internet or API token needed.
+2. Once downloaded, it runs locally no internet or API token needed.
 
 
 3. The project automatically uses the local pipeline for inference if configured.
